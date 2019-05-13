@@ -1,0 +1,15 @@
+misc:
+    dindex:
+        name: amplyfi
+        as: amplyfi
+    ctype:
+        name: articles
+        as: articles
+    direction: me
+    dropDataset: false
+mongo:
+    host: localhost
+    port: 27017
+elastic:
+    host: localhost
+    port: 9300

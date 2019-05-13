@@ -1,0 +1,15 @@
+{
+  "mappings": {
+    "articles": {
+      "properties": {
+        "m_szSourceType": {
+          "type": "text",
+          "fielddata": true
+        },
+	"m_szYear": {
+          "type": "short"
+        }
+      }
+    }
+  }
+}
